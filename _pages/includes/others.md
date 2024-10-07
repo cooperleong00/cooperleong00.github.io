@@ -1,19 +1,13 @@
+# Academic and Professional Activities
 
-# 📖 Educations
-- *2019.06 - 2022.04*, Master, Zhejiang University, Hangzhou.
-- *2015.09 - 2019.06*, Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou.
-- *2012.09 - 2015.06*, Luqiao Middle School, Taizhou.
+## Open-Source Projects
+- **Awesome-LLM-Interpretability** [![GitHub Stars](https://img.shields.io/github/stars/cooperleong00/Awesome-LLM-Interpretability?style=social)](https://github.com/cooperleong00/Awesome-LLM-Interpretability) [![GitHub Forks](https://img.shields.io/github/forks/cooperleong00/Awesome-LLM-Interpretability?style=social)](https://github.com/cooperleong00/Awesome-LLM-Interpretability)
+    - A curated list of LLM Interpretability related material - Tutorial, Library, Survey, Paper, Blog, etc.
 
-# 💬 Invited Talks
-- *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
-- *2021.06*, Audio & Speech Synthesis, Huawei internal talk
-- *2021.03*, Non-autoregressive Speech Synthesis, PaperWeekly & biendata \| [\[video\]](https://www.bilibili.com/video/BV1uf4y1t7Hr/)
-- *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk
+## Academic Services
+- **Conference Reviewer**: NeuIPS 2024, ICLR 2025
 
-# 💻 Internships
-- *2021.06 - 2021.09*, Alibaba, Hangzhou.
-- *2019.05 - 2020.02*, [EnjoyMusic](https://enjoymusic.ai/), Hangzhou.
-- *2019.02 - 2019.05*, [YiWise](https://www.yiwise.com/), Hangzhou.
-- *2018.08 - 2019.02*, [MSRA, machine learning Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), Beijing.
-- *2018.01 - 2018.06*, [NetEase, AI department](https://hr.163.com/zc/12-ai/index.html), Hangzhou.
-- *2017.08 - 2018.12*, DashBase (acquired by [Cisco](https://blogs.cisco.com/news/349511)), Hangzhou.
+## Teaching Assistant
+- COMP 6709: Advanced Natural Language Processing, Spring 2024 PolyU
+- COMP 4133: Information Retrieval, Fall 2023 PolyU
+- COMP 5423: Natural Language Processing, Spring 2023 PolyU
