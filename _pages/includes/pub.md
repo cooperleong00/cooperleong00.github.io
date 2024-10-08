@@ -30,7 +30,7 @@ Hanlin Wang†, **Chak Tou Leong**†, Jian Wang, Wenjie Li
 </div>
 </div>
 
-- `EMNLP 2024 Findings` [Deeper Insights Without Updates: The Power of In-Context Learning Over Fine-Tuning](https://openreview.net/forum?id=BeglmPVIVe#discussion), Qingyu Yin, Xuzheng He, Luoao Deng, **Chak Tou Leong**, Fan Wang, Yanzhao Yan, Xiaoyu Shen, Qiang Zhang
+- `EMNLP 2024 Findings` [Deeper Insights Without Updates: The Power of In-Context Learning Over Fine-Tuning](https://arxiv.org/abs/2410.04691), Qingyu Yin, Xuzheng He, Luoao Deng, **Chak Tou Leong**, Fan Wang, Yanzhao Yan, Xiaoyu Shen, Qiang Zhang
 - `ACL 2024` [Instruct Once, Chat Consistently in Multiple Rounds: An Efficient Tuning Framework for Dialogue](https://aclanthology.org/2024.acl-long.219/), Jian Wang, **Chak Tou Leong**, Jiashuo Wang, Dongding Lin, Wenjie Li, Xiaoyong Wei
 - `ACL 2024 Findings` [Muffin: Mitigating Unhelpfulness in Emotional Support Conversations with Multifaceted AI Feedback](https://aclanthology.org/2024.findings-acl.31/), Jiashuo Wang, Chunpu Xu, **Chak Tou Leong**, Wenjie Li, Jing Li
 - `ACMMM 2024` [SCREEN: A Benchmark for Situated Conversational Recommendation](https://openreview.net/forum?id=BfjHOCFvyf&noteId=BfjHOCFvyf), Dongding Lin, Jian Wang, **Chak Tou Leong**, Wenjie Li
