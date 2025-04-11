@@ -2,10 +2,28 @@
 # 📝 Publications 
 See full list in [![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=tv7RFsMAAAAJ)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/tasa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Why Safeguarded Ships Run Aground? Aligned Large Language Models' Safety Mechanisms Tend to Be Anchored in The Template Region](https://arxiv.org/abs/2502.13946) \\
+**Chak Tou Leong**, Qingyu Yin, Jian Wang, Wenjie Li
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/fpo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Direct Preference Optimization Using Sparse Feature-Level Constraints](https://arxiv.org/abs/2411.07618) \\
+Qingyu Yin†, **Chak Tou Leong**†, Hongbo Zhang, Minjun Zhu, Hanqi Yan, Qiang Zhang, Yulan He, Wenjie Li, Jun Wang, Yue Zhang, Linyi Yang
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 Findings</div><img src='images/e2cl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[E^2CL: Exploration-based Error Correction Learning for Embodied Agents](https://arxiv.org/abs/2006.04558) \\
+[E^2CL: Exploration-based Error Correction Learning for Embodied Agents](https://aclanthology.org/2024.findings-emnlp.448/) \\
 Hanlin Wang†, **Chak Tou Leong**†, Jian Wang, Wenjie Li
 
 </div>
@@ -29,6 +47,9 @@ Hanlin Wang†, **Chak Tou Leong**†, Jian Wang, Wenjie Li
 
 </div>
 </div>
+
+- STeCa: Step-level Trajectory Calibration for LLM Agent Learning
+- TokenSkip: Controllable Chain-of-Thought Compression in LLMs
 
 - `EMNLP 2024 Findings` [Deeper Insights Without Updates: The Power of In-Context Learning Over Fine-Tuning](https://arxiv.org/abs/2410.04691), Qingyu Yin, Xuzheng He, Luoao Deng, **Chak Tou Leong**, Fan Wang, Yanzhao Yan, Xiaoyu Shen, Qiang Zhang
 - `ACL 2024` [Instruct Once, Chat Consistently in Multiple Rounds: An Efficient Tuning Framework for Dialogue](https://aclanthology.org/2024.acl-long.219/), Jian Wang, **Chak Tou Leong**, Jiashuo Wang, Dongding Lin, Wenjie Li, Xiaoyong Wei
