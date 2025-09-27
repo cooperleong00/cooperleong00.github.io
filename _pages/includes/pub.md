@@ -48,12 +48,12 @@ Hanlin Wang†, **Chak Tou Leong**†, Jian Wang, Wenjie Li
 </div>
 </div>
 
-- `Preprint` [TokenSkip: Controllable Chain-of-Thought Compression in LLMs](https://arxiv.org/abs/2502.12067), Heming Xia, **Chak Tou Leong**, Wenjie Wang, Yongqi Li, Wenjie Li
 
+
+- `EMNLP 2025` [TokenSkip: Controllable Chain-of-Thought Compression in LLMs](https://arxiv.org/abs/2502.12067), Heming Xia, **Chak Tou Leong**, Wenjie Wang, Yongqi Li, Wenjie Li
+- `EMNLP 2025` [Expanding before Inferring: Enhancing Factuality in Large Language Models through Premature Layers Interpolation](https://arxiv.org/abs/2506.02973), Dingwei Chen, Ziqiang Liu, Feiteng Fang, **Chak Tou Leong**, Shiwen Ni, Ahmadreza Argha, Hamid Alinejad-Rokny, Min Yang, Chengming Li
 - `ACL 2025 Findings` [STeCa: Step-level Trajectory Calibration for LLM Agent Learning](https://arxiv.org/abs/2502.14276), Hanlin Wang, Jian Wang, **Chak Tou Leong**, Wenjie Li
-
 - `ACL 2025` [Subtle Errors Matter: Preference Learning via Error-injected Self-editing](https://arxiv.org/abs/2410.06638), Kaishuai Xu, Tiezheng Yu, Wenjun Hou, Yi Cheng, **Chak Tou Leong**, Liangyou Li, Xin Jiang, Lifeng Shang, Qun Liu, Wenjie Li
-
 - `EMNLP 2024 Findings` [Deeper Insights Without Updates: The Power of In-Context Learning Over Fine-Tuning](https://arxiv.org/abs/2410.04691), Qingyu Yin, Xuzheng He, Luoao Deng, **Chak Tou Leong**, Fan Wang, Yanzhao Yan, Xiaoyu Shen, Qiang Zhang
 - `ACL 2024` [Instruct Once, Chat Consistently in Multiple Rounds: An Efficient Tuning Framework for Dialogue](https://aclanthology.org/2024.acl-long.219/), Jian Wang, **Chak Tou Leong**, Jiashuo Wang, Dongding Lin, Wenjie Li, Xiaoyong Wei
 - `ACL 2024 Findings` [Muffin: Mitigating Unhelpfulness in Emotional Support Conversations with Multifaceted AI Feedback](https://aclanthology.org/2024.findings-acl.31/), Jiashuo Wang, Chunpu Xu, **Chak Tou Leong**, Wenjie Li, Jing Li
